@@ -64,4 +64,3 @@ Goblinocus forecast operators want to know what the `Forecast()` function does (
 
 - @nikimanoledaki
 - @micuffaro
-
